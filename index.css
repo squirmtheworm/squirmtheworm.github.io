@@ -84,11 +84,15 @@ body {
 h1 {
   color: white;
 }
+p {
+  color: white;
+}
 
 /* Background */
 body {
   background-color: black;
 }
 body {
-  background-image: url("background.png");
+  background-image: url("flip.png");
+  background-repeat: no-repeat;
 }
