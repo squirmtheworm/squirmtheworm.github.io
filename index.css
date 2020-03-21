@@ -76,11 +76,16 @@ h1 {
 
 
 
-
+/* Text Color */
 body {
   color: white;
 }
 
 h1 {
   color: white;
+}
+
+/* Background */
+body {
+  background-color: black;
 }
